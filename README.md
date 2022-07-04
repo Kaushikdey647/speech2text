@@ -11,7 +11,7 @@ Here we have the API implementation of the same in flask.
 
 Some environment variables are needed to run the app. Make sure you have them set.
 
-- `export FLASK_APP=app.main.py`
+- `export FLASK_APP=app.py`
 - `export FLASK_ENV=development`
 
 ### 2. Running the app
