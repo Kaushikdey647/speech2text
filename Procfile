@@ -1,0 +1,1 @@
+web: gunicorn speech2text-kaydee647:app
